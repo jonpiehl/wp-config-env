@@ -5,8 +5,8 @@
 # 'ENV NAME' => 'DOMAIN PART' (use array to catch multiple variations)
 $environments = array(
 	'local'		=> array('.local', 'local.'),
-	'dev'		=> array('dev.', 'dev-'),
-	'staging'		=> array('staging.', 'staging-'),
+	'dev'			=> array('dev.', 'dev-'),
+	'staging'	=> array('staging.', 'staging-'),
 );
 
 # Set Environment
