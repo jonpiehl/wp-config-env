@@ -1,4 +1,4 @@
-# USE THIS CODE TO REPLACE THE DB & SITE CONFIG SETTINGS
+# USE THIS CODE TO REPLACE THE DB AND SITE CONFIG SETTINGS
 
 ## Set Environment Condition Rules ##
 # parts of the domain that are unique to each enviornment.
